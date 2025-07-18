@@ -12,13 +12,14 @@ A feature-rich Kanban-style task management app built with modern frontend tools
 
 ---
 
-## 🖥️ Live Demo
+## Live Site on Vercel:
 
-Coming soon or [deploy on Vercel](https://vercel.com/) yourself!
+[vercel](https://kanban-mustafa-alie-mustafa-alis-projects-60b90124.vercel.app/)
 
 ---
 
 ## 📸 Preview
+
 ![App Preview](./preview.png)
 
 ---
@@ -71,15 +72,11 @@ npm run build
 npm run preview
 ```
 
-Deploy on [Vercel](https://vercel.com/) or any static host.
-
 ---
-
 
 ## 🧪 Devtools
 
 Zustand devtools are included during development for debugging. You can disable or remove them before deploying to production if needed.
-
 
 ---
 
@@ -89,6 +86,4 @@ Inspired by the Kanban-style task boards from tools like Trello and Frontend Men
 
 ---
 
-
 Happy Coding! 🎉
-
