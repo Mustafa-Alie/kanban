@@ -12,7 +12,8 @@ A feature-rich Kanban-style task management app built with modern frontend tools
 
 ---
 
-## Live Site on Vercel:
+## Live Site:
+[Github Pages](https://mustafa-alie.github.io/kanban/)
 
 [vercel](https://kanban-mustafa-alie-mustafa-alis-projects-60b90124.vercel.app/)
 
