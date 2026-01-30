@@ -29,7 +29,7 @@ export default function BoardList() {
   return (
     <div>
       <h2 className="text-center text-lg font-semibold tracking-widest text-slate-400">
-        All Boards (<span>X</span>)
+        All Boards (<span>{boardsLength}</span>)
       </h2>
 
       <ul className="flex flex-col gap-4 py-4 pe-8">
