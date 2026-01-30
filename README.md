@@ -1,4 +1,4 @@
-# Kanban To-Do Web App
+# Kanban To Do Web App
 
 A feature-rich Kanban-style task management app built with modern frontend tools:
 
